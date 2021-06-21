@@ -1,0 +1,9 @@
+You start with git init
+You'll use git throughout
+You make a change, commit,
+Stash if ever you're in doubt...
+
+You use git status 
+to view your working tree, 
+you use git status - see 
+changes untracked, staged for free.
