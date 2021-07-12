@@ -7,3 +7,10 @@ You use git status
 to view your working tree, 
 you use git status - see 
 changes untracked, staged for free.
+
+you do a push to `origin`
+and it gets saved on the Cloud
+that's what git's all about
+
+You use git status next, to view your working tree: all of your unsaved stuff,
+push me, and then commit me, until I get my, github actions
